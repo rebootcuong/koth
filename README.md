@@ -1,4 +1,4 @@
-# koth
+# Tips and Tricks
 King of the Hill scripts
 
 
